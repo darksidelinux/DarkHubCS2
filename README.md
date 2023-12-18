@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/build-C++-blue?style=flat&label=Language"></a>
 <a href="https://store.steampowered.com/app/730/CounterStrike_2"><img src="https://img.shields.io/badge/Game-CS2-red.svg?style=flat"></a>
-<a href="LICENSE.txt"><img src="https://img.shields.io/github/license/CowNowK/AimStarCS2.svg?style=flat"></a>
 </p>
 <h4 align="center">
   ⛔ USE AT YOUR OWN RISK ⛔
