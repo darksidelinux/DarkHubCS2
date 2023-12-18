@@ -7,11 +7,9 @@
   ⛔ USE AT YOUR OWN RISK ⛔
 </h4>
 
-## ❗ Info
-
-Free and open-source external cheat for CS2, written in C++, written by 
-
-Discord server: [Dark Side](https://dsc.gg/darksidehub)
+## 🔗 Links
+Discord: [Dark Side](https://dsc.gg/darksidehub)
+Instagram: [@darksidee01](https://www.instagram.com/darksidee01/)
 
 ## ⚠️ Notice
 
