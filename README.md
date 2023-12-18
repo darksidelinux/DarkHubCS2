@@ -11,23 +11,11 @@ Discord: [Dark Side](https://dsc.gg/darksidehub)
 
 Instagram: [@darksidee01](https://www.instagram.com/darksidee01/)
 
-## ⚠️ Notice
-
-**Detected:** *Your account will be banned without VAC Bypass*
-
-**Isnt working?** -> [**__COMMON ISSUES__**](https://github.com/CowNowK/AimStarCS2/discussions/19)
-
-***
-> I am so busy that I may not update the code on time. If u have the capability to update or fix bugs, u can pull ur request🤩
-***
-## 📸 Preview
-![](/Image1.png)
-
 ## 📋 Features
 
 <details>
 <summary>Visual</summary>
-  
+
 - ESP
 - Glow
 - Radar
@@ -47,18 +35,4 @@ Instagram: [@darksidee01](https://www.instagram.com/darksidee01/)
 </details>
 
 ## ⚠️ Disclamers
-- 🚫 **The project is for learning purposes only and strictly prohibited for any illegal activities. Users bear full responsibility for any misuse.**
-- Main code forked from [**__Liv__**](https://github.com/TKazer/CS2_External)
-- Features copied from UnknownCheats
-  - [Glow](https://www.unknowncheats.me/forum/counter-strike-2-a/604503-glow-external.html)
-  - [Weapon Icon](https://www.unknowncheats.me/forum/counter-strike-2-a/608799-weapon-icon-esp.html)
-  - [HitSound](https://www.unknowncheats.me/forum/counter-strike-2-releases/607417-hitsound-external.html)
-- Features intergrated from [Aeonix](https://github.com/Fr0go1/Aeonix-Cs2)
-  - Visible Check Box
-  - Corner Box
-  - Mouse Aimbot
-- Major help from Shinyaluvs
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=CowNowK/AimStar&type=Date)](https://star-history.com/#CowNowK/AimStar&Date)
+Main project forked from: [**__Aimstar__**](https://github.com/CowNowK/AimStar)
