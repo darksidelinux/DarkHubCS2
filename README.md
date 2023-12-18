@@ -8,6 +8,7 @@
 
 ## 🔗 Links
 Discord: [Dark Side](https://dsc.gg/darksidehub)
+
 Instagram: [@darksidee01](https://www.instagram.com/darksidee01/)
 
 ## ⚠️ Notice
